@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
     public static String lastSizeStr = "LAST_SIZE";
     private MapView mapView;
     private FusedLocationProviderClient fusedLocationClient;
-    private final String API_KEY = "1ad0f4e0-0800-4eeb-b39d-82a08b9049cb";
+    private final String API_KEY = "KEY";
     private Double latitude;
     private Double longitude;
     private TextView tvVelocity;
